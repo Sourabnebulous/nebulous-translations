@@ -22,7 +22,7 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 - Adding comments to your PR that explains why subtle changes were made can help. If you are revising something that is already translated, an explanation is **required**.
 
 ### Languages
-`res/values`: English<br>
+`res/values`: English<translation tag important 
 `res/values-af`: Afrikaans<br>
 `res/values-ar`: Arabic<br>
 `res/values-az`: Azerbaijani<br>
